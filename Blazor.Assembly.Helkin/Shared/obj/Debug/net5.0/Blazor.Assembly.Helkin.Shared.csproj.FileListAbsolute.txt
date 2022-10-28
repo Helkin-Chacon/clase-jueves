@@ -1,0 +1,12 @@
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\bin\Debug\net5.0\Blazor.Assembly.Helkin.Shared.deps.json
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\bin\Debug\net5.0\Blazor.Assembly.Helkin.Shared.dll
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\bin\Debug\net5.0\Blazor.Assembly.Helkin.Shared.pdb
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\Blazor.Assembly.Helkin.Shared.csproj.AssemblyReference.cache
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\Blazor.Assembly.Helkin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\Blazor.Assembly.Helkin.Shared.AssemblyInfoInputs.cache
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\Blazor.Assembly.Helkin.Shared.AssemblyInfo.cs
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\Blazor.Assembly.Helkin.Shared.csproj.CoreCompileInputs.cache
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\Blazor.Assembly.Helkin.Shared.dll
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\refint\Blazor.Assembly.Helkin.Shared.dll
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\Blazor.Assembly.Helkin.Shared.pdb
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Shared\obj\Debug\net5.0\ref\Blazor.Assembly.Helkin.Shared.dll

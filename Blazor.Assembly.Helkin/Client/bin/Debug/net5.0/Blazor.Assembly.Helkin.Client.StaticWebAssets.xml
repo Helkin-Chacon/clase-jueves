@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Helkin\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>

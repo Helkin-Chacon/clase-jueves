@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Blazor.Assembly.Helkin.Repository/1.0.0": {
+        "dependencies": {
+          "Blazor.Assembly.Helkin.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Blazor.Assembly.Helkin.Repository.dll": {}
+        }
+      },
+      "Blazor.Assembly.Helkin.Shared/1.0.0": {
+        "runtime": {
+          "Blazor.Assembly.Helkin.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blazor.Assembly.Helkin.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blazor.Assembly.Helkin.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\bin\Debug\net5.0\Blazor.Assembly.Helkin.Repository.deps.json
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\bin\Debug\net5.0\Blazor.Assembly.Helkin.Repository.dll
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\bin\Debug\net5.0\Blazor.Assembly.Helkin.Repository.pdb
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\bin\Debug\net5.0\Blazor.Assembly.Helkin.Shared.dll
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\bin\Debug\net5.0\Blazor.Assembly.Helkin.Shared.pdb
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\Blazor.Assembly.Helkin.Repository.csproj.AssemblyReference.cache
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\Blazor.Assembly.Helkin.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\Blazor.Assembly.Helkin.Repository.AssemblyInfoInputs.cache
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\Blazor.Assembly.Helkin.Repository.AssemblyInfo.cs
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\Blazor.Assembly.Helkin.Repository.csproj.CoreCompileInputs.cache
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\Blazor.Assembly.Helkin.Repository.csproj.CopyComplete
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\Blazor.Assembly.Helkin.Repository.dll
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\refint\Blazor.Assembly.Helkin.Repository.dll
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\Blazor.Assembly.Helkin.Repository.pdb
+C:\Users\AULA208-13\source\repos\Blazor.Assembly.Helkin\Blazor.Assembly.Repository\obj\Debug\net5.0\ref\Blazor.Assembly.Helkin.Repository.dll
